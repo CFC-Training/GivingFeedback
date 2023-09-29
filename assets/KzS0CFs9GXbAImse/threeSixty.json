@@ -1,0 +1,27 @@
+{
+  "version": "3.55.25975.0",
+  "course_id": "5WwiFksrme6_course_id",
+  "title": "CEDAR dragndrop",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TjDgRgNcyT",
+      "title": "Drag the boxes to match the stage of the model with its description",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1080,
+    "height": 1098
+  },
+  "stage": {
+    "width": 820,
+    "height": 980
+  }
+}

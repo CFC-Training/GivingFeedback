@@ -1,0 +1,57 @@
+{
+  "version": "3.55.25975.0",
+  "course_id": "5pqksdRZJwv_course_id",
+  "title": "aylin omar story",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5wvh8Kp79Zg",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6FiPCjtSOdQ",
+      "title": "Pick One",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6RvgsglKhgI",
+      "title": "Pick One",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6050B4U8ZJb",
+      "title": "Pick One",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "62aHHDoIw91",
+      "title": "Pick One",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5rdy3PNvQNF",
+      "title": "Pick One",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6FfZFrV4PHZ",
+      "title": "Pick One",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
